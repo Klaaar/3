@@ -4,4 +4,4 @@ def palindrom(s):
     else:
         return False
 
-print(palindrom('шалаш'))
+print(palindrom('лепсспел'))
